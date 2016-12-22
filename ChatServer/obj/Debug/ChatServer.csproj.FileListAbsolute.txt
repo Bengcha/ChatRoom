@@ -1,0 +1,2 @@
+C:\Users\Beng\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Beng\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
