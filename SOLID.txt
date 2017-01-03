@@ -1,0 +1,8 @@
+SOLID Principles
+
+I believe I used the single Responsibility principles in my TCPServer class. All the methods I used in
+that class are doing one specific things. For example the method "ListeningForMessage()" only do one
+task which listen for users message and output the message.
+
+I believe I used the Dependency Inversion Principle throughout my project. Most of my method does not depend on one another 
+but on abstrations.  

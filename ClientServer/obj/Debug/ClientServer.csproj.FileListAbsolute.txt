@@ -1,0 +1,8 @@
+C:\Users\Beng\Desktop\ChatServer\ClientServer\bin\Debug\ClientServer.exe.config
+C:\Users\Beng\Desktop\ChatServer\ClientServer\bin\Debug\ClientServer.exe
+C:\Users\Beng\Desktop\ChatServer\ClientServer\bin\Debug\ClientServer.pdb
+C:\Users\Beng\Desktop\ChatServer\ClientServer\bin\Debug\ChatServer.exe
+C:\Users\Beng\Desktop\ChatServer\ClientServer\bin\Debug\ChatServer.pdb
+C:\Users\Beng\Desktop\ChatServer\ClientServer\obj\Debug\ClientServer.csprojResolveAssemblyReference.cache
+C:\Users\Beng\Desktop\ChatServer\ClientServer\obj\Debug\ClientServer.exe
+C:\Users\Beng\Desktop\ChatServer\ClientServer\obj\Debug\ClientServer.pdb

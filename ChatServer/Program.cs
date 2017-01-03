@@ -10,6 +10,8 @@ namespace ChatServer
     {
         static void Main(string[] args)
         {
+            TCPListener runChatRoom = new TCPListener();
+            runChatRoom.Start();
         }
     }
 }
